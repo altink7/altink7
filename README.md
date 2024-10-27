@@ -30,7 +30,7 @@ Here are some of my notable projects:
   A collection of Java projects and exercises for learning and teaching purposes.
 
 ## 📈 Activity Graph
-[![Altin's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=altink7&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Altin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=altink7&theme=github-compact)](https://github.com/altink7/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=altink7&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
