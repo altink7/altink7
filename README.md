@@ -15,7 +15,7 @@ I'm a passionate software developer who loves building solutions, regardless of 
 Here are some of my notable projects:
 
 - [![ModelTester](https://img.shields.io/badge/-ModelTester-000?style=flat&logo=github)](https://github.com/altink7/ModelTester) **ModelTester**  
-  A tool for testing and validating machine learning models.
+  A testing framework
 
 - [![Kahuat](https://img.shields.io/badge/-Kahuat-000?style=flat&logo=github)](https://github.com/altink7/Kahuat) **Kahuat**  
   An educational platform inspired by Kahoot, built with modern web technologies.
