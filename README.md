@@ -13,7 +13,7 @@ I'm a passionate software developer who loves building solutions, regardless of 
 
 ## 💻 Projects
 Here are some of my notable projects:
-- [![Altin- Bot](https://img.shields.io/badge/-ModelTester-000?style=flat&logo=github)](https://github.com/altink7/altin-bot) **AI Bot**  
+- [![Altin- Bot](https://img.shields.io/badge/AI-BOT-000?style=flat&logo=github)](https://github.com/altink7/altin-bot) **AI Bot**  
   A fully customizable AI BOT (https://www.npmjs.com/package/altin-bot)
   
 - [![ModelTester](https://img.shields.io/badge/-ModelTester-000?style=flat&logo=github)](https://github.com/altink7/ModelTester) **ModelTester**  
