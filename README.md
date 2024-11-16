@@ -1,4 +1,6 @@
 # Hi there, I'm Altin 👋
+[![committers.top badge](https://user-badge.committers.top/austria_private/altink7.svg)](https://user-badge.committers.top/austria_private/altink7)
+
 
 ## 🚀 About Me
 I'm a passionate software developer who loves building solutions, regardless of the programming language or field. With a diverse stack and a knack for problem-solving, I strive to create impactful applications.
